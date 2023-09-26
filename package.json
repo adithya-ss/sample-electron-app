@@ -1,0 +1,17 @@
+{
+  "name": "sample_electron_app",
+  "productName": "Image Resizer",
+  "version": "1.0.0",
+  "description": "Sample electron app to learn concepts - From TraversyMedia",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Adithya Seebi",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^26.2.2",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
